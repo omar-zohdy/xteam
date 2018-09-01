@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+html,body{
+    height:100%;
+    background-image:url('images/paris.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+}
+
+img{
+    margin-top:50px;
+    margin-bottom:30px;  
+}
+
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    color:white;
+    margin-top:20px;
+    margin-bottom:50px;
+    font-size:40px;
+}
+p{
+    color:white;
+    font-size:30px;
+    margin-bottom: 30px;
+    
+}
+input{
+    padding:15px;
+    font-family: 'Lobster Two', cursive;
+    border-radius:5px;
+}
+#submit{
+    background-color:red;
+    color:white;
+    font-family: 'Lobster Two', cursive;
+    border:none;
+    font-size:15px;
+}
